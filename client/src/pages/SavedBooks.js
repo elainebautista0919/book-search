@@ -9,7 +9,7 @@ import {
 
 import { getMe, deleteBook } from '../utils/API';
 import { useQuery } from '@apollo/client';
-import { useMutation } from '@apollo/react-hooks';
+import { useMutation } from '@apollo/client';
 import { QUERY_ME } from '../utils/queries';
 import { REMOVE_BOOK } from '../utils/mutations';
 import Auth from '../utils/auth';
