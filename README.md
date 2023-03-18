@@ -16,7 +16,7 @@
   This app is built using the MERN stack with React FE, MonggoDB DB and Node.js/Express.js server and API. <br>
   This app allows users to save book searches. <br>
 
-  Deployed Application: https://elaine0919-book-search-engine.herokuapp.com/
+  Deployed Application: https://elaine0919-book-search.herokuapp.com/
 
   ## Installation
 
